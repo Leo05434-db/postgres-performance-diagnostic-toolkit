@@ -1,1 +1,1 @@
-# -postgres-performance-diagnostic-toolkit
+# postgres-performance-diagnostic-toolkit
