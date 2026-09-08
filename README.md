@@ -3,8 +3,6 @@
 A collection of production-safe, non-destructive SQL diagnostic scripts designed to audit database health, isolate query bottlenecks, and identify storage bloat.
 
 ## 🚀 The Core Problem
-Most full-stack developers build beautiful application logic, but database internals remain a black box. When production traffic spikes and API endpoints begin lagging, finding the exact bottleneck usually requires hours of parsing obscure system catalogs (`pg_stat_user_tables`, `pg_stat_database`, etc.).
-
 This repository provides a framework to safely diagnose database degradation in under 60 seconds without installing heavy, invasive monitoring agents.
 
 ---
