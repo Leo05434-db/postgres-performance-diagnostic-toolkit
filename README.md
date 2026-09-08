@@ -35,7 +35,7 @@ The complete, fully formatted toolkit includes the critical scripts required to 
 *   **04_postgres_slow_query_performance_tracker.sql:** Ranks your top 5 heaviest execution queries so you know exactly which lines of code to optimize.
 *   **Comprehensive PDF/Markdown Guide:** Step-by-step instructions detailing exactly how to safely resolve the critical thresholds flagged by the scripts.
 
-👉 [Download the Full Production Toolkit on Gumroad for $39](https://leonova027.gumroad.com/l/lpostgresql-performance-toolkit)
+👉 [Download the Full Production Toolkit on Gumroad for $39](https://leonova027.gumroad.com/l/postgresql-performance-toolkit)
 
 ---
 *Maintained by @leonova027. For custom data engineering architecture, query optimization tuning, or scaling support, contact [leo05434@proton.me].*
